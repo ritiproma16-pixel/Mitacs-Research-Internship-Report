@@ -62,6 +62,3 @@ into the body and release them slowly at the right place.
 - Cell culture and safety testing
 - Writing research reports
 
-## Thank you
-Thanks to Dr. Hector De La Hoz Siegler, Valentina Aguilera Duarte, 
-the research team, and HK PolyU for this opportunity.
