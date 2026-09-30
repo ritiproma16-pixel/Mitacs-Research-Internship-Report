@@ -1,64 +1,35 @@
-# Hydrogels for Vaccine Delivery — MITACS Research Internship
+# Stimuli-Responsive Hydrogels for Viral Vaccine Delivery
 
-## What is this project?
-A 3-month research internship at The Hong Kong Polytechnic University. 
-I made and tested special gels (called hydrogels) that can carry vaccines 
-into the body and release them slowly at the right place.
+**Author:** Riti Proma Saha  
+**Host:** The Hong Kong Polytechnic University  
+**Program:** MITACS Global Research Internship  
+**Supervisor:** Dr. Hector De La Hoz Siegler  
+**Mentor:** Valentina Aguilera Duarte  
+**Date:** August 2025
 
-## Where and when?
-- **Host university:** The Hong Kong Polytechnic University
-- **Program:** MITACS Global Research Internship (GRI)
-- **Duration:** May – August 2025 (3 months)
-- **Supervisor:** Dr. Hector De La Hoz Siegler
-- **Mentor:** Valentina Aguilera Duarte
+## Abstract
+This internship focused on synthesizing and characterizing stimuli-responsive hydrogels for viral vaccine delivery. Four formulations were developed: three thermoresponsive (PAAc-Co-NHS, PPLGA-Co-P407, PHPMC-Co-P407) and one pH-responsive (PAAc-Co-Dextrin). Characterization included gelation temperature, swelling, porosity, stability, dynamic light scattering, and cytotoxicity. PAAc-Co-Dextrin and PPLGA-Co-P407 demonstrated optimal swelling and porosity; PHPMC-Co-P407 showed excellent biocompatibility (1–7% cytotoxicity). Findings support hydrogel-based vaccine delivery for intranasal and oral routes.
 
-## Why does this matter?
-- Vaccines need to reach the right cells without being destroyed by the body.
-- Normal injections don't target specific areas well.
-- Hydrogels are safe, hold a lot of water, and can respond to body conditions 
-  like temperature and pH — so they can release vaccines slowly and precisely.
-- They can be used for nasal, skin, or oral delivery.
+## Objectives
+1. Synthesize pH- and temperature-responsive hydrogels.
+2. Characterize pH-responsive hydrogels under simulated gastrointestinal conditions.
+3. Determine sol–gel transition temperatures.
+4. Evaluate antigen entrapment and release.
+5. Assess biocompatibility.
 
-## What did I do?
+## Methods
+- **Synthesis:** Free radical polymerization, oil-in-water emulsion, physical crosslinking (cold method).
+- **Characterization:** UV-VIS spectrophotometry, tube inversion, swelling studies, porosity (n-hexane displacement), stability in DMEM, dynamic light scattering, cytotoxicity assays.
 
-### Made four hydrogel types:
+## Key Results
+- PAAc-Co-NHS gelation: 30.5°C.
+- PPLGA-Co-P407 gelation: 30–34°C.
+- PHPMC-Co-P407 gelation: 25–26.8°C; cytotoxicity 1–7%.
+- PAAc-Co-Dextrin: 78% porosity; higher swelling at pH 7.4 and 37°C.
 
-**1. PAAc-Co-NHS (temperature-responsive)**
-- Made using oil-in-water emulsion polymerization
-- Gels at ~30.5°C — good for nasal delivery
+## Conclusion
+PAAc-Co-Dextrin and PPLGA-Co-P407 are promising candidates for vaccine delivery. PHPMC-Co-P407 is highly biocompatible. Further optimization and in vivo studies are recommended.
 
-**2. PAAc-Co-Dextrin (pH-responsive)**
-- Made using free radical polymerization
-- Swells more at pH 7.4 and 37°C
-- Has 78% porosity (lots of tiny holes to hold vaccine)
-
-**3. PPLGA-Co-P407 (temperature-responsive)**
-- Made by physical crosslinking (cold method)
-- Gels at 30–34°C
-
-**4. PHPMC-Co-P407 (temperature-responsive)**
-- Made by cold method
-- Gels at 25–26.8°C
-- Very safe for cells (only 1–7% toxicity)
-
-### Tests I ran:
-- Gelation temperature (when liquid turns to gel)
-- Swelling behavior at different pH and temperatures
-- Porosity (how many holes the gel has)
-- Stability in cell media over 5–10 days
-- Particle size using light scattering
-- Cytotoxicity (safety) tests
-
-## What did I find?
-- PAAc-Co-Dextrin and PPLGA-Co-P407 worked best overall.
-- PHPMC-Co-P407 was very safe for cells.
-- Small changes in ingredients changed how the gel behaved.
-- Temperature and pH together give better control than just one.
-
-## Skills I learned
-- Making and testing hydrogels
-- Designing experiments
-- Using lab equipment (UV-VIS, light scattering, etc.)
-- Cell culture and safety testing
-- Writing research reports
+## Acknowledgments
+Thanks to Dr. Hector De La Hoz Siegler, Valentina Aguilera Duarte, the research team, and HK PolyU.
 
